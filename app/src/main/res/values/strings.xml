@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Exchange rates</string>
+    <string name="sort_icon_cd">Кнопка сортировки</string>
+    <string name="network_error">Произошла ошибка при загрузке данных</string>
+    <string name="sorting_desc_text">по убыванию</string>
+    <string name="sorting_text">по возрастанию</string>
+    <string name="sorting_header_text">Сортировка</string>
+    <string name="sorting_alphabet_text">по алфавиту</string>
+    <string name="sorting_value_text">по значению</string>
+</resources>
